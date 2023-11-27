@@ -2,7 +2,6 @@
 
 ### I'm Aisha, a passionate coder from Kazakhstan 🇰🇿
 
-<img align="right" src="https://github.com/username/image.png" width="300"/>
 
 -------
     
