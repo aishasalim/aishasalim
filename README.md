@@ -20,6 +20,8 @@
 - 📊 Data Analysis: Pandas, NumPy
 - 📲 App Development: iOS using Xcode
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aishasalim&show_icons=true&locale=en&layout=compact" alt="aishasalim" /></p>
+
 ----------
 
 ### Let's Connect
