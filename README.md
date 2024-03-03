@@ -30,7 +30,9 @@
   
 Feel free to reach out if you have any questions or collaboration opportunities.
   
-- 📫 Email: aishasalimg@gmail.com
-- 💼 LinkedIn: https://www.linkedin.com/in/aisha-salimgereyeva/
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/aisha salimgereyeva" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aisha salimgereyeva" height="30" width="40" /></a>
+</p>
   
 ⚡ Fun fact: I speak English, German, and Russian fluently. Feel free to communicate in any of these languages!
