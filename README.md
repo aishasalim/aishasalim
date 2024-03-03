@@ -27,6 +27,6 @@
 Feel free to reach out if you have any questions or collaboration opportunities.
   
 - 📫 Email: aishasalimg@gmail.com
-- 💼 LinkedIn: https://www.linkedin.com/in/aisha-salimgereyeva-79544a1b3/
+- 💼 LinkedIn: https://www.linkedin.com/in/aisha-salimgereyeva/
   
 ⚡ Fun fact: I speak English, German, and Russian fluently. Feel free to communicate in any of these languages!
