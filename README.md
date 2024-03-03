@@ -20,8 +20,6 @@
 - 📊 Data Analysis: Pandas, NumPy
 - 📲 App Development: iOS using Xcode
 
-<img src="https://github.com/sw-yx/sw-yx/raw/master/generated/languages.svg" alt="" style="max-width: 100%;">
-
 ----------
 
 ### Let's Connect
