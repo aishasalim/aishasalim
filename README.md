@@ -1,6 +1,5 @@
-## Hi there 👋,
-
-### I'm Aisha, a passionate coder from Kazakhstan 🇰🇿
+<h1 align="center">Hi 👋, I'm Aisha Salimgereyeva</h1>
+<h3 align="center">a coder from Houston 🇺🇸🇰🇿</h3>
 
 
 -------
