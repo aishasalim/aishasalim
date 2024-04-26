@@ -7,7 +7,7 @@
 ## 🧐 About Me
   
 - 🌱 Currently a student at HCC, passionate about coding and constantly learning new languages and skills
-- 📚 Studying Python, CSS, and HTML in my free time
+- 📚 Studying React and Swift in my free time
 - 💻 Interested in mobile app development and data analysis
 - 🔭 Working as a math and reading tutor for K12 kids
 - 👯 Hoping to expand my skills, learn more, and have fun coding
