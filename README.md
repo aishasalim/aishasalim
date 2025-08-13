@@ -23,6 +23,9 @@ I’m a Computer Engineering student at **Texas A&M University** with a strong p
 ### [Flashcard SaaS](https://github.com/aishasalim/flashcard-saas)
 SaaS platform that generates personalized flashcards on any topic using OpenAI. Integrated Stripe for secure payments and built with Next.js and TypeScript.
 
+### [Pantry Tracker](https://github.com/aishasalim/pantry-tracker)
+Smart pantry manager with AI recipe suggestions based on stored ingredients. Built with JavaScript, Firebase, and AI APIs.
+
 ### [Brain Tumor Classification](https://github.com/aishasalim/btc)
 Streamlit app using Xception, ResNet, and CNN to classify brain MRI scans with 95% accuracy, including saliency maps and AI-generated explanations.
 
