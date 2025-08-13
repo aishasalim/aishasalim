@@ -28,9 +28,4 @@ Streamlit app using Xception, ResNet, and CNN to classify brain MRI scans with 9
 
 ---
 
-## 📊 GitHub Stats
-![Aisha's GitHub stats](https://github-readme-stats.vercel.app/api?username=aishasalim&show_icons=true&theme=dark)
-
----
-
 💡 *Open to collaboration on AI, full-stack projects, and impactful tech solutions.*
