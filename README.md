@@ -41,9 +41,4 @@ Streamlit app classifying brain MRI scans (Xception/ResNet/CNN) with saliency ma
 
 ---
 
-## 📈 Activity
-![Aisha's GitHub stats](https://github-readme-stats.vercel.app/api?username=aishasalim&show_icons=true)
-
----
-
 💬 **Contact:** [aishasalimg@gmail.com](mailto:aishasalimg@gmail.com) — open to collaboration on AI and full-stack projects.
