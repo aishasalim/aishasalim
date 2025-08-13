@@ -1,7 +1,6 @@
-
 # Hi, I'm Aisha 👋
 
-I’m a Computer Engineering student at **Texas A&M University** with a strong passion for **full-stack development** and **machine learning**. I enjoy building scalable web applications, experimenting with AI/ML models, and solving real-world problems through technology.  
+I’m a Computer Engineering student at **Texas A&M University** focused on **full-stack web** and **AI/ML**. I love shipping clean, scalable products and applying machine learning to practical problems.
 
 📍 Houston, TX  
 📧 [aishasalimg@gmail.com](mailto:aishasalimg@gmail.com)  
@@ -10,25 +9,41 @@ I’m a Computer Engineering student at **Texas A&M University** with a strong p
 ---
 
 ## 🚀 About Me
-- 🎓 Pursuing **B.S. in Computer Engineering** at Texas A&M (2025–2028)  
-- 🧠 Completed **Machine Learning Foundations** certificate from Cornell University  
-- 💻 Skilled in **Python, JavaScript/TypeScript, React, Next.js, Django, TensorFlow/Keras, AWS, Supabase**  
+- B.S. in Computer Engineering (2025–2028), Texas A&M University  
+- ML Foundations certificate (Cornell, 2025)  
+- Building AI-driven and full-stack apps with **Python, TypeScript, React/Next.js, TensorFlow/Keras, Supabase, AWS**
 - 🏆 GPA 4.0 at Houston Community College, Dean’s List, Leadership in tech and philosophy clubs  
-- 🌱 Currently working on **AI-driven full-stack applications** and preparing for an AI/ML fellowship capstone  
 
 ---
 
-## 🛠 Featured Projects
+## 🧩 Featured Projects
 
 ### [Flashcard SaaS](https://github.com/aishasalim/flashcard-saas)
-SaaS platform that generates personalized flashcards on any topic using OpenAI. Integrated Stripe for secure payments and built with Next.js and TypeScript.
+Generates personalized flashcards using OpenAI; Stripe payments integrated.  
+**Stack:** Next.js, TypeScript, OpenAI, Stripe, Vercel
 
-### [Pantry Tracker](https://github.com/aishasalim/pantry-tracker)
-Smart pantry manager with AI recipe suggestions based on stored ingredients. Built with JavaScript, Firebase, and AI APIs.
+### [Discord Clone](https://github.com/aishasalim/discord-clone)
+Real-time chat app with auth, profiles, DMs, photo upload, and webhooks.  
+**Stack:** Next.js 15, Convex (backend/database), Clerk (auth), Tailwind CSS, Radix UI
 
 ### [Brain Tumor Classification](https://github.com/aishasalim/btc)
-Streamlit app using Xception, ResNet, and CNN to classify brain MRI scans with 95% accuracy, including saliency maps and AI-generated explanations.
+Streamlit app classifying brain MRI scans (Xception/ResNet/CNN) with saliency maps.  
+**Stack:** Python, TensorFlow/Keras, Streamlit, NumPy/pandas
 
 ---
 
-💡 *Open to collaboration on AI, full-stack projects, and impactful tech solutions.*
+## 🛠 Skills
+**Languages:** Python, JavaScript/TypeScript, Java  
+**Frontend:** React, Next.js, Tailwind, shadcn/ui  
+**Backend:** Node.js, Django/Flask, Supabase, Firebase  
+**ML/Data:** scikit-learn, TensorFlow/Keras, pandas, NumPy  
+**Cloud & Tools:** AWS, Docker, CI/CD, Vercel
+
+---
+
+## 📈 Activity
+![Aisha's GitHub stats](https://github-readme-stats.vercel.app/api?username=aishasalim&show_icons=true)
+
+---
+
+💬 **Contact:** [aishasalimg@gmail.com](mailto:aishasalimg@gmail.com) — open to collaboration on AI and full-stack projects.
