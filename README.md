@@ -18,9 +18,9 @@ I’m a Computer Engineering student at **Texas A&M University** focused on **fu
 
 ## 🧩 Featured Projects
 
-### [Flashcard SaaS](https://github.com/aishasalim/flashcard-saas)
-Generates personalized flashcards using OpenAI; Stripe payments integrated.  
-**Stack:** Next.js, TypeScript, OpenAI, Stripe, Vercel
+### [Skin condition classification model](https://github.com/aishasalim/flashcard-saas](https://github.com/aishasalim/skinterest-2b)
+Classifies different skin conditions with an emphasis on different skin tones.   
+**Stack:** Python, TensorFlow/Keras, Streamlit, NumPy/pandas
 
 ### [Discord Clone](https://github.com/aishasalim/discord-clone)
 Real-time chat app with auth, profiles, DMs, photo upload, and webhooks.  
