@@ -18,7 +18,7 @@ I’m a Computer Engineering student at **Texas A&M University** focused on **fu
 
 ## 🧩 Featured Projects
 
-### [Skin condition classification model](https://github.com/aishasalim/flashcard-saas](https://github.com/aishasalim/skinterest-2b)
+### [Skin condition classification model](https://github.com/aishasalim/skinterest-2b)
 Classifies different skin conditions with an emphasis on different skin tones.   
 **Stack:** Python, TensorFlow/Keras, Streamlit, NumPy/pandas
 
