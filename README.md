@@ -17,7 +17,7 @@ Houston, TX · [LinkedIn](https://www.linkedin.com/in/aisha-salimgereyeva/) ·
 
 ## Selected Work
 
-### LLM-Aided Hardware Verification / AdversarialChallenger
+### LLM-Aided Hardware Verification
 Research project developing evaluation and reliability workflows for LLM-assisted RTL verification.
 **Note:** This work is currently private due to research and repository-access restrictions. I can discuss the system design, evaluation methodology, and my contributions upon request.
 **Stack:** Python, OpenAI API tool calling, SystemVerilog/UVM, Cadence Xcelium, JasperGold, JSON
